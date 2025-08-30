@@ -3,14 +3,6 @@
 
 
 
-
-
-
-
-
-
-
-
 import random
 def slot_machine():
     x=["apple" , "grapes" , "banana" , "orange"]
